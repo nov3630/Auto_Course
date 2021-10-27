@@ -121,7 +121,7 @@ class AutoScripts:
         # print(src)
         duration = self.get_video_duration(src)
         # print(duration)
-        duration = 1
+        # duration = 1
         time.sleep(duration)
 
         return True
